@@ -1,0 +1,7 @@
+readings.json
+readings.json.tmp
+settings.json
+*-error.log
+/preview.png
+vendor/
+dist/
